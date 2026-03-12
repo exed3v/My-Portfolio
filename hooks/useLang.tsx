@@ -76,7 +76,7 @@ const translations: Record<Lang, Translations> = {
       tag: "Sobre mí",
       title: "Conoce un poco más sobre mí",
       description:
-        "Soy un desarrollador web apasionado por crear experiencias digitales modernas y funcionales. Me especializo en el ecosistema JavaScript, tanto en frontend como en backend, buscando siempre las mejores prácticas y tecnologías actuales para entregar productos de alta calidad.",
+        "Desde que comencé a interactuar con código en 2021, he desarrollado mi formación mediante bootcamps y de manera autodidacta, adaptándome rápidamente a nuevas tecnologías y enfoques. Me interesa crear soluciones digitales que sean innovadoras, escalables y de impacto tangible para los usuarios.\n\nTrabajo de manera colaborativa, priorizando la comunicación clara y la organización de los proyectos para alcanzar resultados eficientes incluso bajo presión. Soy meticuloso en los detalles y comprometido con entregar productos de alta calidad, siempre con el objetivo de mejorar continuamente.",
       stack: "Mi stack tecnológico",
     },
     projects: {
@@ -167,7 +167,7 @@ const translations: Record<Lang, Translations> = {
       tag: "About me",
       title: "Get to know me a little better",
       description:
-        "I'm a web developer passionate about creating modern and functional digital experiences. I specialize in the JavaScript ecosystem, both frontend and backend, always seeking best practices and current technologies to deliver high-quality products.",
+        "Since I began interacting with code in 2021, I have developed my skills through bootcamps and self-study, quickly adapting to new technologies and approaches. I am interested in creating digital solutions that are innovative, scalable, and have a tangible impact on users.\n\nI work collaboratively, prioritizing clear communication and project organization to achieve efficient results even under pressure. I am meticulous in my attention to detail and committed to delivering high-quality products, always with the goal of continuous improvement.",
       stack: "My tech stack",
     },
     projects: {
